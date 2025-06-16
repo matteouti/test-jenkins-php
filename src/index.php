@@ -43,7 +43,7 @@
         
         <div class="success">
             <h2>✅ Application PHP déployée avec succès!</h2>
-            <p>premier changement..</p>mm
+            <p>premier changement..</p>mm7
             <p>Cette page a été générée le: <strong><?php echo date('d/m/Y à H:i:s'); ?></strong></p>
         </div>
 
