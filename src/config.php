@@ -7,7 +7,7 @@ define('APP_ENV', 'production');
 // Configuration de la base de données (exemple)
 $config = [
     'db_host' => 'localhost',
-    'db_name' => 'test_db',
+    'db_name' => 'task_manager',
     'debug' => false
 ];
 ?>
